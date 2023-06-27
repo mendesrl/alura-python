@@ -1,7 +1,3 @@
-pais = "Italia"
-ganhou = 4
-print(pais, "ganhou", ganhou)
-
 import Random
 a = random.randint(1,12)
 b = random.randint(1,12)
